@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml:2:1-23:12
+ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml:2:1-23:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\a6214063c4c8e996686341ccbfd10574\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\19d6a7200b7d0d4f15746c1dbc65af16\jetified-core-ktx-1.0.2\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\6ce971e2442b269bf0aa61f2ac8f9b60\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
@@ -37,25 +37,25 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\ADMIN\.gradle\caches\transform
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\085d23082653304da0d32cc49d0a629d\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\64a1b83d5f059890ea96ea5faaf80283\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\925c77d91319c92577f50f1d61a6042f\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml:2:1-23:12
 	package
-		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml:3:11-46
-		INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml
-		INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml
+		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml:3:11-46
+		INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml
-		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml:2:1-23:12
-		INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml
+		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml
-		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml:2:1-23:12
-		INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml
+		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml:5:5-21:19
+ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml:5:5-21:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\6ce971e2442b269bf0aa61f2ac8f9b60\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\6ce971e2442b269bf0aa61f2ac8f9b60\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.room:room-runtime:2.1.0-beta01] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\a1495df8797d7edacdcc2c338512cf4a\room-runtime-2.1.0-beta01\AndroidManifest.xml:22:5-26:19
@@ -67,43 +67,43 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] C:\U
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0-beta01] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\3ebad20d369f0f63154f1cd035a01d9a\core-1.1.0-beta01\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml:10:13-39
+		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml:10:13-39
 	android:label
-		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml:8:13-45
+		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml:8:13-45
 	android:roundIcon
-		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml:9:13-58
+		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml:9:13-58
 	android:icon
-		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml:7:13-47
+		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml:7:13-47
 	android:allowBackup
-		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml:6:13-39
+		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml:6:13-39
 	android:theme
-		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml:11:13-44
+		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml:11:13-44
 activity#com.yellowcode.roomsample.activities.NewNoteActivity
-ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml:12:9-13:20
+ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml:12:9-13:20
 	android:name
-		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml:12:19-61
+		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml:12:19-61
 activity#com.yellowcode.roomsample.activities.MainActivity
-ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml:14:9-20:20
+ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml:14:19-58
+		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml:14:19-58
 intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
-ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.VIEW
-ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml:16:25-66
 action#android.intent.action.MAIN
-ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml:17:17-68
+ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml:17:17-68
 	android:name
-		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml:18:17-76
+ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml:18:17-76
 	android:name
-		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml:18:27-74
 uses-sdk
-INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml
-INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml
+INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml
+INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\a6214063c4c8e996686341ccbfd10574\appcompat-1.0.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\a6214063c4c8e996686341ccbfd10574\appcompat-1.0.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\19d6a7200b7d0d4f15746c1dbc65af16\jetified-core-ktx-1.0.2\AndroidManifest.xml:5:5-44
@@ -170,16 +170,16 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ADMIN\.gradle\
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\64a1b83d5f059890ea96ea5faaf80283\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\925c77d91319c92577f50f1d61a6042f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\925c77d91319c92577f50f1d61a6042f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml
-INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml
+INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml
+INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml
-		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml
-		INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml
+		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml
-		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml
-		INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Room_sample_master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml
+		ADDED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DH_Viet_Han\2021-2022_hoc_ky_2\Lap_trinh_di_dong\Giua_ky\Giua_ky\app\src\main\AndroidManifest.xml
 service#androidx.room.MultiInstanceInvalidationService
 ADDED from [androidx.room:room-runtime:2.1.0-beta01] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\a1495df8797d7edacdcc2c338512cf4a\room-runtime-2.1.0-beta01\AndroidManifest.xml:23:9-25:40
 	android:exported

@@ -110,7 +110,7 @@ public final class NoteDao_Impl implements NoteDao {
   }
 
   @Override
-  public Object getAllNotes(final Continuation<? super List<? extends Note>> p0) {
+  public Object getAllNotes(final Continuation<? super List<Note>> p0) {
     final String _sql = "SELECT * FROM note_table ORDER BY id ASC";
     final RoomSQLiteQuery _statement = RoomSQLiteQuery.acquire(_sql, 0);
     return CoroutinesRoom.execute(__db, false, new Callable<List<Note>>() {

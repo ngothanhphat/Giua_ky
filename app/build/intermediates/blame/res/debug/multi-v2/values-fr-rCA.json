@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\DH_Viet_Han\\2021-2022_hoc_ky_2\\Lap_trinh_di_dong\\Giua_ky\\Room_sample_master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
+            "outputFile": "D:\\DH_Viet_Han\\2021-2022_hoc_ky_2\\Lap_trinh_di_dong\\Giua_ky\\Giua_ky\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-2\\files-2.1\\3ebad20d369f0f63154f1cd035a01d9a\\core-1.1.0-beta01\\res\\values-fr-rCA\\values-fr-rCA.xml",
